@@ -7,9 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.salmanMuzandwa
-
-.com">
+  <a href="https://www.salmanMuzandwa.com">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Administrateur+Reseau;Creative+Thinker" alt="Typing SVG" />
   </a>
 </p>
@@ -53,13 +51,11 @@
 <br>
 
 <p align="center">
-  <strong>Design UI/UX & Outils Vidéo/Graphique</strong><br>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop%20(90%25)-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator%20(85%25)-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro%20(80%25)-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects%20(60%25)-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects" />
+  <strong>Réseau, VidéoSurveillance & Graphisme</strong><br>
+  <img src="https://img.shields.io/badge/Vid%C3%A9oconf%C3%A9rence%20(90%25)-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="VidéoSurveillance" />
+  <img src="https://img.shields.io/badge/Admin%20R%C3%A9seau%20(87%25)-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Administration Réseau" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop%20(70%25)-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
 </p>
-
 <br>
 
 <p align="center">
