@@ -78,9 +78,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=salmanMuzandwa&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&bg_color=0D1117" alt="salmanMuzandwaGitHub Stats" />
   </a>
   <a href="https://github.com/salmanMuzandwa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanMuzandwa
-
-&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanMuzandwa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
 </p>
 
